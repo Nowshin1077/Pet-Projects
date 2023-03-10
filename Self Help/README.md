@@ -1,5 +1,11 @@
 # Self Help - Flask Web App 
 
+
+## Requirements (Import) ##
+- flask
+- Flask-SQLAlchemy
+- flask-login
+
 ## Setup & Installation
 
 Make sure you have the latest version of Python installed.
