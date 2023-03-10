@@ -1,4 +1,4 @@
-# Self Help - Flask Web App 
+# Self Help ✨ (Flask Web App)
 
 
 ## Requirements (Import) ##
