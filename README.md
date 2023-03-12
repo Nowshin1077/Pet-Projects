@@ -2,7 +2,7 @@
 Side projects to learn more.
 
 
-| Name      | DIFFICULTY  | TAGS  | Repo Link |
+| Name      | DIFFICULTY  | Tech  | Repo Link |
 | ------------- |:----------------:| -----------:|------:| 
-| Self-Help |  Easy | Python (Flask) |<a href="https://github.com/Nowshin1077/Self-Help"> Repo </a>|
+| Self-Help |  Beginner | Python-Flask |<a href="https://github.com/Nowshin1077/Self-Help"> Repo </a>|
 
