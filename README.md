@@ -1,6 +1,5 @@
 # Pet-Projects
-Side projects to learn more.
-
+This repository consist with list of pet projects I am doing to learn new technologies.
 
 | Name      | DIFFICULTY  | Tech  | Repo Link |
 | ------------- |:----------------:| -----------:|------:| 
