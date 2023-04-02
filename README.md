@@ -1,4 +1,4 @@
-# Pet and practice Projects
+# Pet Projects
 This repository consist with list of pet projects I am doing to learn new technologies.
 
 | Name      | Difficulty  | Tech  | Repo Link | Tag |
